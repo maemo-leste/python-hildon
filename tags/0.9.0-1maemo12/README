@@ -1,7 +1,0 @@
-To build:
-
-	$ ./setup.py build
-
-To install:
-
-	$ ./setup.py install
