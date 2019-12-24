@@ -35,7 +35,6 @@
 (include "defs/hildon-file-system-obex.defs")
 (include "defs/hildon-file-system-remote-device.defs")
 (include "defs/hildon-file-system-root.defs")
-(include "defs/hildon-file-system-smb.defs")
 (include "defs/hildon-file-system-special-location.defs")
 (include "defs/hildon-file-system-storage-dialog.defs")
 (include "defs/hildon-file-system-upnp.defs")
