@@ -1,3 +1,10 @@
+python-hildon (1.0.0) unstable; urgency=low
+
+  * Initial Maemo Leste port
+  * Port to Python 2.7
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Wed, 25 Dec 2019 08:27:33 +0100
+
 python-hildon (0.9.0-1maemo15) unstable; urgency=low
 
   * hildon.TouchSelector: implement get_selected_rows() method (Fixes:
