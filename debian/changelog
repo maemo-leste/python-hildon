@@ -1,3 +1,9 @@
+python-hildon (1.0.1) unstable; urgency=low
+
+  * Remove gvfs dep
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Fri, 24 Jan 2020 16:13:28 +0100
+
 python-hildon (1.0.0) unstable; urgency=low
 
   * Initial Maemo Leste port
